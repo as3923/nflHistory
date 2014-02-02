@@ -1,0 +1,518 @@
+NAME,SEASON,TEAM,G,GS,Rec,Yds,Avg,Lng,TD,Att,RuYds,RuAvg,RuLng,RuTD,FUM,Lost
+Benjamin Watson,2013,New Orleans Saints,12,6,14,181,12.9,32,2,nan,nan,nan,nan,nan,nan,nan
+Benjamin Watson,2012,Cleveland Browns,16,14,49,501,10.2,27,3,nan,nan,nan,nan,nan,1,0
+Benjamin Watson,2011,Cleveland Browns,13,11,37,410,11.1,34T,2,nan,nan,nan,nan,nan,nan,nan
+Benjamin Watson,2010,Cleveland Browns,16,16,68,763,11.2,44,3,1,-1,-1.0,-1,0,nan,nan
+Benjamin Watson,2009,New England Patriots,16,7,29,404,13.9,36,5,nan,nan,nan,nan,nan,nan,nan
+Benjamin Watson,2008,New England Patriots,14,9,22,209,9.5,29,2,nan,nan,nan,nan,nan,1,1
+Benjamin Watson,2007,New England Patriots,12,8,36,389,10.8,35,6,1,11,11.0,11,0,1,0
+Benjamin Watson,2006,New England Patriots,13,13,49,643,13.1,40,3,nan,nan,nan,nan,nan,3,1
+Benjamin Watson,2005,New England Patriots,15,9,29,441,15.2,35,4,nan,nan,nan,nan,nan,1,1
+Benjamin Watson,2004,New England Patriots,1,1,2,16,8.0,14,0,nan,nan,nan,nan,nan,nan,nan
+Delanie Walker,2013,Tennessee Titans,12,8,45,454,10.1,33,5,nan,nan,nan,nan,nan,1,0
+Delanie Walker,2012,San Francisco 49ers,16,4,21,344,16.4,45,3,nan,nan,nan,nan,nan,1,1
+Delanie Walker,2011,San Francisco 49ers,15,7,19,198,10.4,29T,3,3,5,1.7,14,0,nan,nan
+Delanie Walker,2010,San Francisco 49ers,14,8,29,331,11.4,38,0,3,18,6.0,10,0,1,1
+Delanie Walker,2009,San Francisco 49ers,16,8,21,233,11.1,39,0,3,34,11.3,16,0,2,2
+Delanie Walker,2008,San Francisco 49ers,15,2,10,155,15.5,53,1,2,-13,-6.5,-3,0,2,0
+Delanie Walker,2007,San Francisco 49ers,16,10,21,174,8.3,26,1,nan,nan,nan,nan,nan,nan,nan
+Delanie Walker,2006,San Francisco 49ers,7,1,2,30,15.0,29,0,nan,nan,nan,nan,nan,nan,nan
+Timothy Wright,2013,Tampa Bay Buccaneers,13,6,38,404,10.6,36,3,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2013,Dallas Cowboys,13,13,55,632,11.5,27,7,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2012,Dallas Cowboys,16,16,110,"1,039",9.4,36,3,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2011,Dallas Cowboys,16,16,79,942,11.9,64,5,nan,nan,nan,nan,nan,1,0
+Jason Witten,2010,Dallas Cowboys,16,16,94,"1,002",10.7,33,9,nan,nan,nan,nan,nan,1,1
+Jason Witten,2009,Dallas Cowboys,16,16,94,"1,030",11.0,69,2,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2008,Dallas Cowboys,16,16,81,952,11.8,42,4,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2007,Dallas Cowboys,16,16,96,"1,145",11.9,53,7,nan,nan,nan,nan,nan,1,1
+Jason Witten,2006,Dallas Cowboys,16,15,64,754,11.8,42,1,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2005,Dallas Cowboys,16,16,66,757,11.5,34,6,nan,nan,nan,nan,nan,nan,nan
+Jason Witten,2004,Dallas Cowboys,16,15,87,980,11.3,42T,6,nan,nan,nan,nan,nan,2,1
+Jason Witten,2003,Dallas Cowboys,15,7,35,347,9.9,36T,1,nan,nan,nan,nan,nan,nan,nan
+Kellen Winslow,2013,New York Jets,9,2,26,307,11.8,30,2,nan,nan,nan,nan,nan,nan,nan
+Kellen Winslow,2012,New England Patriots,1,0,1,12,12.0,12,0,nan,nan,nan,nan,nan,nan,nan
+Kellen Winslow,2011,Tampa Bay Buccaneers,16,15,75,763,10.2,37,2,nan,nan,nan,nan,nan,2,1
+Kellen Winslow,2010,Tampa Bay Buccaneers,16,11,66,730,11.1,41T,5,nan,nan,nan,nan,nan,1,0
+Kellen Winslow,2009,Tampa Bay Buccaneers,16,14,77,884,11.5,42T,5,1,7,7.0,7,0,nan,nan
+Kellen Winslow,2008,Cleveland Browns,10,8,43,428,10.0,30,3,nan,nan,nan,nan,nan,1,1
+Kellen Winslow,2007,Cleveland Browns,16,14,82,"1,106",13.5,49,5,nan,nan,nan,nan,nan,2,1
+Kellen Winslow,2006,Cleveland Browns,16,16,89,875,9.8,40,3,nan,nan,nan,nan,nan,1,0
+Kellen Winslow,2005,Cleveland Browns,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Kellen Winslow,2004,Cleveland Browns,2,2,5,50,10.0,21,0,nan,nan,nan,nan,nan,nan,nan
+Luke Willson,2013,Seattle Seahawks,13,6,16,242,15.1,39T,1,nan,nan,nan,nan,nan,nan,nan
+D.J. Williams,2013,New England Patriots,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+D.J. Williams,2013,Jacksonville Jaguars,7,1,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+D.J. Williams,2012,Green Bay Packers,13,2,7,57,8.1,12,0,nan,nan,nan,nan,nan,nan,nan
+D.J. Williams,2011,Green Bay Packers,13,0,2,13,6.5,7,0,nan,nan,nan,nan,nan,nan,nan
+Brandon Williams,2013,Carolina Panthers,7,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Taylor Thompson,2013,Tennessee Titans,13,3,3,13,4.3,9T,1,nan,nan,nan,nan,nan,nan,nan
+Taylor Thompson,2012,Tennessee Titans,16,4,6,46,7.7,12,0,nan,nan,nan,nan,nan,nan,nan
+Julius Thomas,2013,Denver Broncos,11,11,50,625,12.5,74T,11,nan,nan,nan,nan,nan,nan,nan
+Julius Thomas,2012,Denver Broncos,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Julius Thomas,2011,Denver Broncos,5,1,1,5,5.0,5,0,nan,nan,nan,nan,nan,nan,nan
+Ryan Taylor,2013,Green Bay Packers,11,1,6,30,5.0,8,0,nan,nan,nan,nan,nan,1,0
+Ryan Taylor,2012,Green Bay Packers,16,1,1,11,11.0,11,0,nan,nan,nan,nan,nan,nan,nan
+Ryan Taylor,2011,Green Bay Packers,15,0,1,4,4.0,4T,1,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2013,Denver Broncos,13,0,13,124,9.5,15,1,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2012,Denver Broncos,16,8,52,555,10.7,36,2,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2011,Indianapolis Colts,16,5,19,177,9.3,29,1,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2010,Indianapolis Colts,16,8,67,631,9.4,30,4,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2009,Indianapolis Colts,16,1,3,35,11.7,21,0,nan,nan,nan,nan,nan,nan,nan
+Jacob Tamme,2008,Indianapolis Colts,12,0,3,12,4.0,6,0,nan,nan,nan,nan,nan,nan,nan
+Levine Toilolo,2013,Atlanta Falcons,12,1,11,55,5.0,12,2,nan,nan,nan,nan,nan,nan,nan
+Tony Scheffler,2013,Detroit Lions,5,1,7,82,11.7,22,0,nan,nan,nan,nan,nan,nan,nan
+Tony Scheffler,2012,Detroit Lions,15,4,42,504,12.0,57,1,nan,nan,nan,nan,nan,nan,nan
+Tony Scheffler,2011,Detroit Lions,15,5,26,347,13.3,36T,6,1,5,5.0,5,0,1,0
+Tony Scheffler,2010,Detroit Lions,15,4,45,378,8.4,25,1,nan,nan,nan,nan,nan,1,1
+Tony Scheffler,2009,Denver Broncos,15,9,31,416,13.4,52,2,nan,nan,nan,nan,nan,nan,nan
+Tony Scheffler,2008,Denver Broncos,13,7,40,645,16.1,72,3,1,-1,-1.0,-1,0,1,1
+Tony Scheffler,2007,Denver Broncos,16,7,49,549,11.2,41,5,nan,nan,nan,nan,nan,1,1
+Tony Scheffler,2006,Denver Broncos,13,5,18,286,15.9,29,4,1,3,3.0,3,0,nan,nan
+Zach Sudfeld,2013,New York Jets,8,2,4,56,14.0,25,0,nan,nan,nan,nan,nan,nan,nan
+Zach Sudfeld,2013,New England Patriots,3,0,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Jake Stoneburner,2013,Green Bay Packers,8,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Luke Stocker,2013,Tampa Bay Buccaneers,2,2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Luke Stocker,2012,Tampa Bay Buccaneers,16,11,16,165,10.3,33,1,nan,nan,nan,nan,nan,nan,nan
+Luke Stocker,2011,Tampa Bay Buccaneers,14,9,12,92,7.7,24,0,nan,nan,nan,nan,nan,nan,nan
+Craig Stevens,2013,Tennessee Titans,12,11,2,5,2.5,6,0,nan,nan,nan,nan,nan,nan,nan
+Craig Stevens,2012,Tennessee Titans,15,15,23,275,12.0,46,1,nan,nan,nan,nan,nan,2,0
+Craig Stevens,2011,Tennessee Titans,15,11,9,166,18.4,58,1,nan,nan,nan,nan,nan,nan,nan
+Craig Stevens,2010,Tennessee Titans,15,13,11,122,11.1,28,2,nan,nan,nan,nan,nan,nan,nan
+Craig Stevens,2009,Tennessee Titans,12,2,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Craig Stevens,2008,Tennessee Titans,16,2,1,9,9.0,9,0,nan,nan,nan,nan,nan,nan,nan
+Kory Sperry,2013,Arizona Cardinals,7,2,1,16,16.0,16,0,nan,nan,nan,nan,nan,nan,nan
+Kory Sperry,2012,Arizona Cardinals,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Kory Sperry,2011,San Diego Chargers,16,4,1,32,32.0,32,0,nan,nan,nan,nan,nan,nan,nan
+Kory Sperry,2010,San Diego Chargers,7,1,4,73,18.3,35,0,nan,nan,nan,nan,nan,nan,nan
+Kory Sperry,2009,Miami Dolphins,8,1,3,31,10.3,13,1,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2013,Pittsburgh Steelers,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2012,Chicago Bears,16,8,6,28,4.7,13T,1,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2011,Chicago Bears,15,8,7,50,7.1,13,2,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2010,Pittsburgh Steelers,14,13,9,80,8.9,13,1,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2009,Pittsburgh Steelers,16,8,5,25,5.0,9,1,nan,nan,nan,nan,nan,1,0
+Matt Spaeth,2008,Pittsburgh Steelers,16,13,17,136,8.0,13,0,nan,nan,nan,nan,nan,nan,nan
+Matt Spaeth,2007,Pittsburgh Steelers,14,5,5,34,6.8,13T,3,nan,nan,nan,nan,nan,nan,nan
+Lee Smith,2013,Buffalo Bills,13,11,4,54,13.5,28,0,nan,nan,nan,nan,nan,nan,nan
+Lee Smith,2012,Buffalo Bills,16,7,4,13,3.3,5,2,nan,nan,nan,nan,nan,nan,nan
+Lee Smith,2011,Buffalo Bills,10,3,4,11,2.8,6,0,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2013,Cincinnati Bengals,13,1,2,5,2.5,3,1,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2012,Cleveland Browns,12,2,13,47,3.6,17,0,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2011,Cleveland Browns,14,4,14,131,9.4,20,1,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2010,Cleveland Browns,3,1,1,6,6.0,6,0,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2009,Philadelphia Eagles,16,5,3,25,8.3,11,0,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2008,Tampa Bay Buccaneers,14,12,21,250,11.9,34,3,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2007,Tampa Bay Buccaneers,14,14,32,385,12.0,33,3,nan,nan,nan,nan,nan,nan,nan
+Alex Smith,2006,Tampa Bay Buccaneers,14,7,35,250,7.1,27,3,nan,nan,nan,nan,nan,1,1
+Alex Smith,2005,Tampa Bay Buccaneers,16,10,41,367,9.0,24,2,nan,nan,nan,nan,nan,nan,nan
+Andre Smith,2013,Cleveland Browns,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Andre Smith,2013,Dallas Cowboys,3,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Andre Smith,2011,Chicago Bears,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Dion Sims,2013,Miami Dolphins,12,5,5,26,5.2,8,1,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2013,Tennessee Titans,1,1,2,2,1.0,3,0,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2012,New England Patriots,4,0,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2011,Minnesota Vikings,16,14,36,409,11.4,37,3,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2010,Minnesota Vikings,16,9,47,530,11.3,33,2,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2009,Minnesota Vikings,16,13,56,566,10.1,27,11,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2008,Minnesota Vikings,16,15,42,596,14.2,40,7,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2007,Minnesota Vikings,16,15,27,323,12.0,79,1,nan,nan,nan,nan,nan,1,1
+Visanthe Shiancoe,2006,New York Giants,16,4,12,81,6.8,16,0,nan,nan,nan,nan,nan,1,1
+Visanthe Shiancoe,2005,New York Giants,16,5,8,91,11.4,17,0,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2004,New York Giants,16,7,5,25,5.0,9,1,nan,nan,nan,nan,nan,nan,nan
+Visanthe Shiancoe,2003,New York Giants,16,7,10,56,5.6,10,2,nan,nan,nan,nan,nan,nan,nan
+Mychal Rivera,2013,Oakland Raiders,13,3,31,311,10.0,26T,3,nan,nan,nan,nan,nan,nan,nan
+Konrad Reuland,2013,New York Jets,10,0,1,7,7.0,7,0,nan,nan,nan,nan,nan,nan,nan
+Konrad Reuland,2012,New York Jets,16,3,11,83,7.5,18,0,nan,nan,nan,nan,nan,nan,nan
+Allen Reisner,2013,Jacksonville Jaguars,5,3,5,40,8.0,16,0,nan,nan,nan,nan,nan,nan,nan
+Allen Reisner,2012,Jacksonville Jaguars,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Allen Reisner,2012,Minnesota Vikings,4,0,1,13,13.0,13,0,nan,nan,nan,nan,nan,nan,nan
+Allen Reisner,2011,Minnesota Vikings,6,0,1,5,5.0,5,0,nan,nan,nan,nan,nan,nan,nan
+Jordan Reed,2013,Washington Redskins,9,4,45,499,11.1,38,3,1,18,18.0,18,0,nan,nan
+Kyle Rudolph,2013,Minnesota Vikings,8,8,30,313,10.4,31T,3,nan,nan,nan,nan,nan,nan,nan
+Kyle Rudolph,2012,Minnesota Vikings,16,16,53,493,9.3,29,9,nan,nan,nan,nan,nan,nan,nan
+Kyle Rudolph,2011,Minnesota Vikings,15,8,26,249,9.6,41,3,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2013,Chicago Bears,12,3,1,13,13.0,13,0,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2012,San Diego Chargers,13,2,10,95,9.5,18,3,nan,nan,nan,nan,nan,1,1
+Dante Rosario,2011,Denver Broncos,14,3,7,117,16.7,32,0,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2011,Miami Dolphins,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2010,Carolina Panthers,16,6,32,264,8.3,26,0,1,-2,-2.0,-2,0,nan,nan
+Dante Rosario,2009,Carolina Panthers,14,8,26,313,12.0,26,2,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2008,Carolina Panthers,16,6,18,209,11.6,24,1,nan,nan,nan,nan,nan,nan,nan
+Dante Rosario,2007,Carolina Panthers,16,2,6,108,18.0,54,2,nan,nan,nan,nan,nan,nan,nan
+Evan Rodriguez,2013,Buffalo Bills,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Evan Rodriguez,2012,Chicago Bears,12,5,4,21,5.3,11,0,nan,nan,nan,nan,nan,nan,nan
+Adrien Robinson,2013,New York Giants,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Adrien Robinson,2012,New York Giants,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Andrew Quarless,2013,Green Bay Packers,13,7,23,196,8.5,21,1,nan,nan,nan,nan,nan,nan,nan
+Andrew Quarless,2012,Green Bay Packers,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Andrew Quarless,2011,Green Bay Packers,10,2,3,36,12.0,21,0,nan,nan,nan,nan,nan,nan,nan
+Andrew Quarless,2010,Green Bay Packers,13,3,21,238,11.3,23,1,nan,nan,nan,nan,nan,1,1
+Dennis Pitta,2013,Baltimore Ravens,1,0,6,48,8.0,18,1,nan,nan,nan,nan,nan,nan,nan
+Dennis Pitta,2012,Baltimore Ravens,16,5,61,669,11.0,61T,7,nan,nan,nan,nan,nan,nan,nan
+Dennis Pitta,2011,Baltimore Ravens,16,2,40,405,10.1,39,3,nan,nan,nan,nan,nan,nan,nan
+Dennis Pitta,2010,Baltimore Ravens,11,0,1,1,1.0,1,0,nan,nan,nan,nan,nan,nan,nan
+John Phillips,2013,San Diego Chargers,13,5,3,25,8.3,13,0,nan,nan,nan,nan,nan,nan,nan
+John Phillips,2012,Dallas Cowboys,16,9,8,55,6.9,19,1,nan,nan,nan,nan,nan,nan,nan
+John Phillips,2011,Dallas Cowboys,16,7,15,101,6.7,12T,1,nan,nan,nan,nan,nan,nan,nan
+John Phillips,2009,Dallas Cowboys,16,4,7,62,8.9,23,0,nan,nan,nan,nan,nan,nan,nan
+Brandon Pettigrew,2013,Detroit Lions,13,13,39,393,10.1,31,2,nan,nan,nan,nan,nan,1,1
+Brandon Pettigrew,2012,Detroit Lions,14,11,59,567,9.6,24,3,nan,nan,nan,nan,nan,4,2
+Brandon Pettigrew,2011,Detroit Lions,16,16,83,777,9.4,27,5,nan,nan,nan,nan,nan,nan,nan
+Brandon Pettigrew,2010,Detroit Lions,16,16,71,722,10.2,35,4,nan,nan,nan,nan,nan,nan,nan
+Brandon Pettigrew,2009,Detroit Lions,11,11,30,346,11.5,30,2,nan,nan,nan,nan,nan,1,0
+David Paulson,2013,Pittsburgh Steelers,13,4,5,72,14.4,34,0,nan,nan,nan,nan,nan,1,1
+David Paulson,2012,Pittsburgh Steelers,16,5,7,51,7.3,9,0,nan,nan,nan,nan,nan,1,0
+Logan Paulsen,2013,Washington Redskins,13,11,19,207,10.9,33,3,nan,nan,nan,nan,nan,2,2
+Logan Paulsen,2012,Washington Redskins,16,10,25,308,12.3,31,1,nan,nan,nan,nan,nan,nan,nan
+Logan Paulsen,2011,Washington Redskins,16,6,11,138,12.5,24,0,nan,nan,nan,nan,nan,nan,nan
+Logan Paulsen,2010,Washington Redskins,11,0,2,10,5.0,9,1,nan,nan,nan,nan,nan,nan,nan
+Niles Paul,2013,Washington Redskins,12,3,4,51,12.8,25,0,nan,nan,nan,nan,nan,nan,nan
+Niles Paul,2012,Washington Redskins,16,4,8,152,19.0,37,1,1,-1,-1.0,-1,0,1,0
+Niles Paul,2011,Washington Redskins,13,2,2,25,12.5,14,0,1,7,7.0,7,0,nan,nan
+Bear Pascoe,2013,New York Giants,13,6,9,62,6.9,14,0,nan,nan,nan,nan,nan,nan,nan
+Bear Pascoe,2012,New York Giants,15,3,4,35,8.8,16,1,nan,nan,nan,nan,nan,nan,nan
+Bear Pascoe,2011,New York Giants,16,11,12,136,11.3,22,0,nan,nan,nan,nan,nan,nan,nan
+Bear Pascoe,2010,New York Giants,15,11,9,72,8.0,12,0,nan,nan,nan,nan,nan,nan,nan
+Bear Pascoe,2009,New York Giants,4,1,1,9,9.0,9,0,nan,nan,nan,nan,nan,nan,nan
+Chris Pantale,2013,New York Jets,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Michael Palmer,2013,Pittsburgh Steelers,13,0,1,8,8.0,8,0,nan,nan,nan,nan,nan,nan,nan
+Michael Palmer,2012,Atlanta Falcons,13,2,6,22,3.7,6,1,nan,nan,nan,nan,nan,nan,nan
+Michael Palmer,2011,Atlanta Falcons,16,2,10,72,7.2,11,1,nan,nan,nan,nan,nan,nan,nan
+Michael Palmer,2010,Atlanta Falcons,14,1,5,29,5.8,11,1,nan,nan,nan,nan,nan,nan,nan
+Greg Olsen,2013,Carolina Panthers,13,13,58,651,11.2,31,5,nan,nan,nan,nan,nan,nan,nan
+Greg Olsen,2012,Carolina Panthers,16,16,69,843,12.2,47T,5,nan,nan,nan,nan,nan,nan,nan
+Greg Olsen,2011,Carolina Panthers,16,13,45,540,12.0,44T,5,nan,nan,nan,nan,nan,1,1
+Greg Olsen,2010,Chicago Bears,16,13,41,404,9.9,39T,5,nan,nan,nan,nan,nan,2,1
+Greg Olsen,2009,Chicago Bears,16,15,60,612,10.2,41,8,nan,nan,nan,nan,nan,nan,nan
+Greg Olsen,2008,Chicago Bears,16,7,54,574,10.6,52,5,nan,nan,nan,nan,nan,2,2
+Greg Olsen,2007,Chicago Bears,14,4,39,391,10.0,31,2,nan,nan,nan,nan,nan,nan,nan
+Danny Noble,2013,Jacksonville Jaguars,5,1,1,62,62.0,62T,1,nan,nan,nan,nan,nan,nan,nan
+Danny Noble,2013,Tampa Bay Buccaneers,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Danny Noble,2012,Tampa Bay Buccaneers,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Jeron Mastrud,2013,Oakland Raiders,13,10,5,76,15.2,41,0,nan,nan,nan,nan,nan,nan,nan
+Jeron Mastrud,2012,Miami Dolphins,14,1,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Jeron Mastrud,2011,Miami Dolphins,14,3,1,8,8.0,8,0,nan,nan,nan,nan,nan,nan,nan
+Jeron Mastrud,2010,Miami Dolphins,8,2,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Steve Maneri,2013,Chicago Bears,4,1,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Steve Maneri,2012,Kansas City Chiefs,13,8,5,51,10.2,19,0,nan,nan,nan,nan,nan,nan,nan
+Steve Maneri,2011,Kansas City Chiefs,6,1,1,1,1.0,1,0,nan,nan,nan,nan,nan,nan,nan
+Steve Maneri,2010,New England Patriots,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Brandon Myers,2013,New York Giants,13,11,38,423,11.1,27T,4,nan,nan,nan,nan,nan,nan,nan
+Brandon Myers,2012,Oakland Raiders,16,16,79,806,10.2,29,4,nan,nan,nan,nan,nan,nan,nan
+Brandon Myers,2011,Oakland Raiders,16,7,16,151,9.4,24,0,nan,nan,nan,nan,nan,nan,nan
+Brandon Myers,2010,Oakland Raiders,15,3,12,80,6.7,16,0,nan,nan,nan,nan,nan,1,0
+Brandon Myers,2009,Oakland Raiders,11,2,4,19,4.8,6,0,nan,nan,nan,nan,nan,nan,nan
+Matthew Mulligan,2013,New England Patriots,12,3,2,16,8.0,15,1,nan,nan,nan,nan,nan,nan,nan
+Matthew Mulligan,2012,St. Louis Rams,16,9,8,84,10.5,18,1,nan,nan,nan,nan,nan,nan,nan
+Matthew Mulligan,2011,New York Jets,16,9,5,58,11.6,41,0,nan,nan,nan,nan,nan,nan,nan
+Matthew Mulligan,2010,New York Jets,13,1,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Matthew Mulligan,2009,New York Jets,5,1,1,2,2.0,2,0,nan,nan,nan,nan,nan,nan,nan
+Tony Moeaki,2013,Buffalo Bills,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Tony Moeaki,2012,Kansas City Chiefs,15,14,33,453,13.7,38,1,nan,nan,nan,nan,nan,nan,nan
+Tony Moeaki,2010,Kansas City Chiefs,15,15,47,556,11.8,34,3,nan,nan,nan,nan,nan,nan,nan
+Keavon Milton,2013,Cleveland Browns,6,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Zach Miller,2013,Seattle Seahawks,11,10,28,347,12.4,60,4,nan,nan,nan,nan,nan,nan,nan
+Zach Miller,2012,Seattle Seahawks,16,15,38,396,10.4,30,3,nan,nan,nan,nan,nan,1,1
+Zach Miller,2011,Seattle Seahawks,15,15,25,233,9.3,28,0,nan,nan,nan,nan,nan,nan,nan
+Zach Miller,2010,Oakland Raiders,15,15,60,685,11.4,43T,5,nan,nan,nan,nan,nan,1,0
+Zach Miller,2009,Oakland Raiders,15,15,66,805,12.2,86T,3,nan,nan,nan,nan,nan,nan,nan
+Zach Miller,2008,Oakland Raiders,16,15,56,778,13.9,63T,1,nan,nan,nan,nan,nan,nan,nan
+Zach Miller,2007,Oakland Raiders,16,16,44,444,10.1,28,3,nan,nan,nan,nan,nan,2,2
+Heath Miller,2013,Pittsburgh Steelers,11,11,49,524,10.7,31,1,nan,nan,nan,nan,nan,1,1
+Heath Miller,2012,Pittsburgh Steelers,15,15,71,816,11.5,43,8,nan,nan,nan,nan,nan,nan,nan
+Heath Miller,2011,Pittsburgh Steelers,16,16,51,631,12.4,39,2,1,6,6.0,6,0,1,1
+Heath Miller,2010,Pittsburgh Steelers,14,14,42,512,12.2,36,2,nan,nan,nan,nan,nan,1,1
+Heath Miller,2009,Pittsburgh Steelers,16,16,76,789,10.4,41,6,nan,nan,nan,nan,nan,2,0
+Heath Miller,2008,Pittsburgh Steelers,14,14,48,514,10.7,22,3,nan,nan,nan,nan,nan,1,1
+Heath Miller,2007,Pittsburgh Steelers,16,16,47,566,12.0,29,7,nan,nan,nan,nan,nan,nan,nan
+Heath Miller,2006,Pittsburgh Steelers,16,16,34,393,11.6,87T,5,nan,nan,nan,nan,nan,nan,nan
+Heath Miller,2005,Pittsburgh Steelers,16,15,39,459,11.8,50,6,nan,nan,nan,nan,nan,nan,nan
+Mike McNeill,2013,St. Louis Rams,11,0,1,5,5.0,5,0,nan,nan,nan,nan,nan,nan,nan
+Mike McNeill,2012,St. Louis Rams,14,1,4,31,7.8,10,0,nan,nan,nan,nan,nan,nan,nan
+Mike McNeill,2011,St. Louis Rams,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Mike McNeill,2011,Indianapolis Colts,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Sean McGrath,2013,Kansas City Chiefs,13,7,23,277,12.0,25,1,nan,nan,nan,nan,nan,nan,nan
+Sean McGrath,2012,Seattle Seahawks,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Vance McDonald,2013,San Francisco 49ers,13,3,8,119,14.9,25,0,nan,nan,nan,nan,nan,nan,nan
+Marcedes Lewis,2013,Jacksonville Jaguars,8,8,14,185,13.2,41,2,nan,nan,nan,nan,nan,1,1
+Marcedes Lewis,2012,Jacksonville Jaguars,16,15,52,540,10.4,26,4,nan,nan,nan,nan,nan,nan,nan
+Marcedes Lewis,2011,Jacksonville Jaguars,15,15,39,460,11.8,62,0,nan,nan,nan,nan,nan,nan,nan
+Marcedes Lewis,2010,Jacksonville Jaguars,16,16,58,700,12.1,42T,10,nan,nan,nan,nan,nan,2,2
+Marcedes Lewis,2009,Jacksonville Jaguars,15,15,32,518,16.2,47,2,nan,nan,nan,nan,nan,1,0
+Marcedes Lewis,2008,Jacksonville Jaguars,16,16,41,489,11.9,30T,2,nan,nan,nan,nan,nan,nan,nan
+Marcedes Lewis,2007,Jacksonville Jaguars,16,16,37,391,10.6,25,2,nan,nan,nan,nan,nan,nan,nan
+Marcedes Lewis,2006,Jacksonville Jaguars,15,3,13,126,9.7,31,1,nan,nan,nan,nan,nan,nan,nan
+Lance Kendricks,2013,St. Louis Rams,12,10,24,187,7.8,18,3,nan,nan,nan,nan,nan,nan,nan
+Lance Kendricks,2012,St. Louis Rams,16,14,42,519,12.4,80T,4,nan,nan,nan,nan,nan,1,0
+Lance Kendricks,2011,St. Louis Rams,15,10,28,352,12.6,45,0,1,-8,-8.0,-8,0,1,1
+Travis Kelce,2013,Kansas City Chiefs,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Nick Kasa,2013,Oakland Raiders,13,1,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+D.C. Jefferson,2013,Arizona Cardinals,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Dominique Jones,2013,Kansas City Chiefs,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Dominique Jones,2013,Indianapolis Colts,6,2,2,34,17.0,21,0,nan,nan,nan,nan,nan,nan,nan
+Dominique Jones,2012,Indianapolis Colts,4,1,1,8,8.0,8,0,nan,nan,nan,nan,nan,nan,nan
+David Johnson,2013,Pittsburgh Steelers,5,2,4,70,17.5,32,0,nan,nan,nan,nan,nan,nan,nan
+David Johnson,2011,Pittsburgh Steelers,16,16,12,91,7.6,25,1,nan,nan,nan,nan,nan,nan,nan
+David Johnson,2010,Pittsburgh Steelers,16,5,4,46,11.5,25,0,nan,nan,nan,nan,nan,nan,nan
+David Johnson,2009,Pittsburgh Steelers,15,3,2,9,4.5,5,0,nan,nan,nan,nan,nan,nan,nan
+Emil Igwenagu,2013,Philadelphia Eagles,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Emil Igwenagu,2012,Philadelphia Eagles,3,1,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2013,Carolina Panthers,10,2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2012,Carolina Panthers,15,5,2,30,15.0,25,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2011,Carolina Panthers,15,2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2010,New York Jets,16,7,1,7,7.0,7,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2009,New York Jets,16,7,1,2,2.0,2T,1,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2008,Atlanta Falcons,11,11,3,26,8.7,17,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2007,Tennessee Titans,16,9,12,138,11.5,27,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2006,Tennessee Titans,6,3,6,68,11.3,23,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2006,Indianapolis Colts,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2005,Indianapolis Colts,7,0,2,8,4.0,7,0,nan,nan,nan,nan,nan,nan,nan
+Ben Hartsock,2004,Indianapolis Colts,16,3,4,33,8.3,17,0,nan,nan,nan,nan,nan,nan,nan
+Cory Harkey,2013,St. Louis Rams,12,9,7,62,8.9,17,1,nan,nan,nan,nan,nan,nan,nan
+Cory Harkey,2012,St. Louis Rams,5,0,1,21,21.0,21,0,nan,nan,nan,nan,nan,nan,nan
+Clay Harbor,2013,Jacksonville Jaguars,13,7,19,229,12.1,31,2,nan,nan,nan,nan,nan,2,1
+Clay Harbor,2012,Philadelphia Eagles,14,9,25,186,7.4,19,2,nan,nan,nan,nan,nan,1,1
+Clay Harbor,2011,Philadelphia Eagles,16,3,13,163,12.5,27,1,nan,nan,nan,nan,nan,nan,nan
+Clay Harbor,2010,Philadelphia Eagles,9,6,9,72,8.0,24,1,nan,nan,nan,nan,nan,nan,nan
+James Hanna,2013,Dallas Cowboys,13,8,12,73,6.1,21,0,nan,nan,nan,nan,nan,nan,nan
+James Hanna,2012,Dallas Cowboys,16,2,8,86,10.8,29,0,nan,nan,nan,nan,nan,nan,nan
+Rob Housler,2013,Arizona Cardinals,11,9,34,376,11.1,31,1,nan,nan,nan,nan,nan,1,0
+Rob Housler,2012,Arizona Cardinals,15,9,45,417,9.3,33,0,nan,nan,nan,nan,nan,nan,nan
+Rob Housler,2011,Arizona Cardinals,12,2,12,133,11.1,21,0,nan,nan,nan,nan,nan,1,1
+Michael Hoomanawanui,2013,New England Patriots,10,8,10,114,11.4,19,0,nan,nan,nan,nan,nan,nan,nan
+Michael Hoomanawanui,2012,New England Patriots,14,6,5,109,21.8,41,0,nan,nan,nan,nan,nan,nan,nan
+Michael Hoomanawanui,2011,St. Louis Rams,8,8,7,83,11.9,27,0,nan,nan,nan,nan,nan,nan,nan
+Michael Hoomanawanui,2010,St. Louis Rams,8,3,13,146,11.2,36T,3,nan,nan,nan,nan,nan,nan,nan
+Josh Hill,2013,New Orleans Saints,13,3,5,36,7.2,9,1,1,-8,-8.0,-8,0,nan,nan
+Tony Gonzalez,2013,Atlanta Falcons,13,13,65,678,10.4,25,6,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2012,Atlanta Falcons,16,16,93,930,10.0,25,8,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2011,Atlanta Falcons,16,16,80,875,10.9,30,7,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2010,Atlanta Falcons,16,16,70,656,9.4,34,6,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2009,Atlanta Falcons,16,16,83,867,10.4,27,6,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2008,Kansas City Chiefs,16,16,96,"1,058",11.0,35,10,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2007,Kansas City Chiefs,16,16,99,"1,172",11.8,31,5,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2006,Kansas City Chiefs,15,15,73,900,12.3,57,5,nan,nan,nan,nan,nan,1,0
+Tony Gonzalez,2005,Kansas City Chiefs,16,16,78,905,11.6,39,2,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2004,Kansas City Chiefs,16,16,102,"1,258",12.3,32,7,1,5,5.0,5,0,nan,nan
+Tony Gonzalez,2003,Kansas City Chiefs,16,16,71,916,12.9,67,10,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2002,Kansas City Chiefs,16,16,63,773,12.3,42T,7,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,2001,Kansas City Chiefs,16,16,73,917,12.6,36,6,1,9,9.0,9,0,nan,nan
+Tony Gonzalez,2000,Kansas City Chiefs,16,16,93,"1,203",12.9,39,9,nan,nan,nan,nan,nan,nan,nan
+Tony Gonzalez,1999,Kansas City Chiefs,15,15,76,849,11.2,73T,11,nan,nan,nan,nan,nan,2,1
+Tony Gonzalez,1998,Kansas City Chiefs,16,16,59,621,10.5,32,2,nan,nan,nan,nan,nan,3,1
+Tony Gonzalez,1997,Kansas City Chiefs,16,0,33,368,11.2,30,2,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2013,San Diego Chargers,13,13,68,776,11.4,56T,3,nan,nan,nan,nan,nan,2,2
+Antonio Gates,2012,San Diego Chargers,15,15,49,538,11.0,34T,7,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2011,San Diego Chargers,13,13,64,778,12.2,38T,7,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2010,San Diego Chargers,10,10,50,782,15.6,48T,10,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2009,San Diego Chargers,16,16,79,"1,157",14.6,56,8,nan,nan,nan,nan,nan,1,0
+Antonio Gates,2008,San Diego Chargers,16,16,60,704,11.7,34,8,nan,nan,nan,nan,nan,1,1
+Antonio Gates,2007,San Diego Chargers,16,16,75,984,13.1,49T,9,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2006,San Diego Chargers,16,16,71,924,13.0,57T,9,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2005,San Diego Chargers,15,15,89,"1,101",12.4,38,10,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2004,San Diego Chargers,15,15,81,964,11.9,72T,13,nan,nan,nan,nan,nan,nan,nan
+Antonio Gates,2003,San Diego Chargers,15,11,24,389,16.2,48,2,nan,nan,nan,nan,nan,1,1
+Rob Gronkowski,2013,New England Patriots,7,6,39,592,15.2,50,4,nan,nan,nan,nan,nan,nan,nan
+Rob Gronkowski,2012,New England Patriots,11,11,55,790,14.4,41,11,nan,nan,nan,nan,nan,1,1
+Rob Gronkowski,2011,New England Patriots,16,16,90,"1,327",14.7,52T,17,1,2,2.0,2T,1,nan,nan
+Rob Gronkowski,2010,New England Patriots,16,11,42,546,13.0,28,10,nan,nan,nan,nan,nan,1,1
+Ryan Griffin,2013,Houston Texans,12,5,5,67,13.4,37,1,nan,nan,nan,nan,nan,nan,nan
+Jermaine Gresham,2013,Cincinnati Bengals,12,12,40,389,9.7,30,3,nan,nan,nan,nan,nan,1,1
+Jermaine Gresham,2012,Cincinnati Bengals,16,15,64,737,11.5,55T,5,nan,nan,nan,nan,nan,2,1
+Jermaine Gresham,2011,Cincinnati Bengals,14,13,56,596,10.6,31,6,nan,nan,nan,nan,nan,1,1
+Jermaine Gresham,2010,Cincinnati Bengals,15,10,52,471,9.1,27,4,nan,nan,nan,nan,nan,2,1
+Virgil Green,2013,Denver Broncos,13,2,6,22,3.7,5,0,nan,nan,nan,nan,nan,nan,nan
+Virgil Green,2012,Denver Broncos,12,2,5,63,12.6,28,0,nan,nan,nan,nan,nan,nan,nan
+Virgil Green,2011,Denver Broncos,15,3,3,24,8.0,9,0,nan,nan,nan,nan,nan,nan,nan
+Ladarius Green,2013,San Diego Chargers,13,7,16,354,22.1,60T,2,nan,nan,nan,nan,nan,nan,nan
+Ladarius Green,2012,San Diego Chargers,4,1,4,56,14.0,31,0,nan,nan,nan,nan,nan,nan,nan
+MarQueis Gray,2013,Cleveland Browns,9,0,2,8,4.0,5,0,3,9,3.0,10,0,nan,nan
+Jimmy Graham,2013,New Orleans Saints,13,9,74,"1,046",14.1,56T,14,nan,nan,nan,nan,nan,nan,nan
+Jimmy Graham,2012,New Orleans Saints,15,9,85,982,11.6,46,9,nan,nan,nan,nan,nan,1,0
+Jimmy Graham,2011,New Orleans Saints,16,11,99,"1,310",13.2,59,11,nan,nan,nan,nan,nan,1,1
+Jimmy Graham,2010,New Orleans Saints,15,5,31,356,11.5,52,5,1,3,3.0,3,0,1,0
+Garrett Graham,2013,Houston Texans,13,11,49,545,11.1,42T,5,nan,nan,nan,nan,nan,2,1
+Garrett Graham,2012,Houston Texans,15,9,28,263,9.4,30,3,nan,nan,nan,nan,nan,nan,nan
+Garrett Graham,2011,Houston Texans,7,0,1,24,24.0,24,0,nan,nan,nan,nan,nan,nan,nan
+Garrett Graham,2010,Houston Texans,6,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Chris Gragg,2013,Buffalo Bills,7,1,4,25,6.3,9,1,nan,nan,nan,nan,nan,nan,nan
+Richard Gordon,2013,Pittsburgh Steelers,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Richard Gordon,2012,Oakland Raiders,13,1,2,9,4.5,8,1,nan,nan,nan,nan,nan,nan,nan
+Richard Gordon,2011,Oakland Raiders,14,1,1,2,2.0,2,0,nan,nan,nan,nan,nan,nan,nan
+Chase Ford,2013,Minnesota Vikings,6,0,4,35,8.8,20,0,nan,nan,nan,nan,nan,nan,nan
+Coby Fleener,2013,Indianapolis Colts,13,9,49,575,11.7,44,4,nan,nan,nan,nan,nan,nan,nan
+Coby Fleener,2012,Indianapolis Colts,12,10,26,281,10.8,26T,2,nan,nan,nan,nan,nan,nan,nan
+Jermichael Finley,2013,Green Bay Packers,6,5,25,300,12.0,52,3,nan,nan,nan,nan,nan,nan,nan
+Jermichael Finley,2012,Green Bay Packers,16,14,61,667,10.9,40,2,nan,nan,nan,nan,nan,1,1
+Jermichael Finley,2011,Green Bay Packers,16,13,55,767,13.9,41,8,nan,nan,nan,nan,nan,nan,nan
+Jermichael Finley,2010,Green Bay Packers,5,5,21,301,14.3,34,1,nan,nan,nan,nan,nan,nan,nan
+Jermichael Finley,2009,Green Bay Packers,13,10,55,676,12.3,62T,5,nan,nan,nan,nan,nan,1,1
+Jermichael Finley,2008,Green Bay Packers,14,1,6,74,12.3,35,1,nan,nan,nan,nan,nan,nan,nan
+Joseph Fauria,2013,Detroit Lions,13,2,11,130,11.8,25,6,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2013,Kansas City Chiefs,8,8,22,181,8.2,20,3,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2012,Miami Dolphins,16,16,41,332,8.1,22,5,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2011,Miami Dolphins,15,15,32,451,14.1,35T,5,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2010,Miami Dolphins,15,15,39,528,13.5,31,4,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2009,Miami Dolphins,14,14,31,339,10.9,27,2,nan,nan,nan,nan,nan,2,2
+Anthony Fasano,2008,Miami Dolphins,16,16,34,454,13.4,24,7,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2007,Dallas Cowboys,16,6,14,143,10.2,26T,1,nan,nan,nan,nan,nan,nan,nan
+Anthony Fasano,2006,Dallas Cowboys,16,5,14,126,9.0,22,0,nan,nan,nan,nan,nan,nan,nan
+Gavin Escobar,2013,Dallas Cowboys,13,0,7,102,14.6,25,1,nan,nan,nan,nan,nan,nan,nan
+Zach Ertz,2013,Philadelphia Eagles,13,2,26,342,13.2,38,3,nan,nan,nan,nan,nan,nan,nan
+Tyler Eifert,2013,Cincinnati Bengals,13,13,35,406,11.6,61,1,nan,nan,nan,nan,nan,nan,nan
+Michael Egnew,2013,Miami Dolphins,13,4,5,44,8.8,13,0,nan,nan,nan,nan,nan,nan,nan
+Michael Egnew,2012,Miami Dolphins,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Ed Dickson,2013,Baltimore Ravens,13,12,18,219,12.2,43,1,nan,nan,nan,nan,nan,nan,nan
+Ed Dickson,2012,Baltimore Ravens,13,11,21,225,10.7,40,0,nan,nan,nan,nan,nan,nan,nan
+Ed Dickson,2011,Baltimore Ravens,16,16,54,528,9.8,25,5,nan,nan,nan,nan,nan,nan,nan
+Ed Dickson,2010,Baltimore Ravens,15,3,11,152,13.8,58,1,nan,nan,nan,nan,nan,nan,nan
+Vernon Davis,2013,San Francisco 49ers,12,12,44,726,16.5,64T,11,nan,nan,nan,nan,nan,1,1
+Vernon Davis,2012,San Francisco 49ers,16,16,41,548,13.4,53,5,nan,nan,nan,nan,nan,nan,nan
+Vernon Davis,2011,San Francisco 49ers,16,16,67,792,11.8,44,6,2,-5,-2.5,-2,0,3,1
+Vernon Davis,2010,San Francisco 49ers,16,16,56,914,16.3,66T,7,nan,nan,nan,nan,nan,nan,nan
+Vernon Davis,2009,San Francisco 49ers,16,16,78,965,12.4,73T,13,nan,nan,nan,nan,nan,nan,nan
+Vernon Davis,2008,San Francisco 49ers,16,16,31,358,11.5,57,2,1,11,11.0,11,0,2,1
+Vernon Davis,2007,San Francisco 49ers,14,14,52,509,9.8,31,4,nan,nan,nan,nan,nan,1,1
+Vernon Davis,2006,San Francisco 49ers,10,8,20,265,13.3,52T,3,2,5,2.5,9,0,1,1
+Kellen Davis,2013,Seattle Seahawks,12,3,3,32,10.7,23,1,nan,nan,nan,nan,nan,nan,nan
+Kellen Davis,2012,Chicago Bears,16,15,19,229,12.1,25,2,nan,nan,nan,nan,nan,1,1
+Kellen Davis,2011,Chicago Bears,16,15,18,206,11.4,32T,5,nan,nan,nan,nan,nan,nan,nan
+Kellen Davis,2010,Chicago Bears,16,3,1,19,19.0,19T,1,nan,nan,nan,nan,nan,nan,nan
+Kellen Davis,2009,Chicago Bears,16,2,9,75,8.3,18,3,nan,nan,nan,nan,nan,nan,nan
+Kellen Davis,2008,Chicago Bears,16,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Fred Davis,2013,Washington Redskins,7,3,5,38,7.6,12,0,nan,nan,nan,nan,nan,nan,nan
+Fred Davis,2012,Washington Redskins,7,7,24,325,13.5,29,0,1,1,1.0,1,0,nan,nan
+Fred Davis,2011,Washington Redskins,12,12,59,796,13.5,42,3,nan,nan,nan,nan,nan,1,1
+Fred Davis,2010,Washington Redskins,16,9,21,316,15.0,71,3,nan,nan,nan,nan,nan,nan,nan
+Fred Davis,2009,Washington Redskins,16,10,48,509,10.6,29,6,nan,nan,nan,nan,nan,nan,nan
+Fred Davis,2008,Washington Redskins,11,2,3,27,9.0,15,0,1,-3,-3.0,-3,0,nan,nan
+Owen Daniels,2013,Houston Texans,5,5,24,252,10.5,28,3,nan,nan,nan,nan,nan,nan,nan
+Owen Daniels,2012,Houston Texans,15,14,62,716,11.5,39T,6,nan,nan,nan,nan,nan,nan,nan
+Owen Daniels,2011,Houston Texans,15,15,54,677,12.5,34,3,nan,nan,nan,nan,nan,nan,nan
+Owen Daniels,2010,Houston Texans,11,10,38,471,12.4,31,2,nan,nan,nan,nan,nan,nan,nan
+Owen Daniels,2009,Houston Texans,8,8,40,519,13.0,44,5,nan,nan,nan,nan,nan,1,0
+Owen Daniels,2008,Houston Texans,16,16,70,862,12.3,35,2,nan,nan,nan,nan,nan,2,1
+Owen Daniels,2007,Houston Texans,16,16,63,768,12.2,29,3,nan,nan,nan,nan,nan,4,3
+Owen Daniels,2006,Houston Texans,14,12,34,352,10.4,33T,5,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2013,Denver Broncos,10,0,4,21,5.3,8,1,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2012,Denver Broncos,16,15,41,356,8.7,30,5,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2011,Houston Texans,16,10,28,353,12.6,56T,6,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2010,Houston Texans,16,10,36,518,14.4,43T,4,nan,nan,nan,nan,nan,1,1
+Joel Dreessen,2009,Houston Texans,16,11,26,320,12.3,25T,1,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2008,Houston Texans,16,3,11,77,7.0,13,0,nan,nan,nan,nan,nan,1,0
+Joel Dreessen,2007,Houston Texans,13,0,4,55,13.8,28T,2,nan,nan,nan,nan,nan,nan,nan
+Joel Dreessen,2005,New York Jets,14,0,5,41,8.2,17,0,nan,nan,nan,nan,nan,nan,nan
+Jim Dray,2013,Arizona Cardinals,13,12,21,172,8.2,17,2,nan,nan,nan,nan,nan,1,1
+Jim Dray,2012,Arizona Cardinals,13,0,2,15,7.5,12,0,nan,nan,nan,nan,nan,nan,nan
+Jim Dray,2011,Arizona Cardinals,10,0,2,25,12.5,20,0,nan,nan,nan,nan,nan,nan,nan
+Jim Dray,2010,Arizona Cardinals,16,3,3,47,15.7,24,0,nan,nan,nan,nan,nan,nan,nan
+Jack Doyle,2013,Indianapolis Colts,12,4,2,15,7.5,8,0,nan,nan,nan,nan,nan,nan,nan
+Larry Donnell,2013,New York Giants,13,1,3,31,10.3,11,0,nan,nan,nan,nan,nan,nan,nan
+Demarcus Dobbs,2013,San Francisco 49ers,12,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Demarcus Dobbs,2012,San Francisco 49ers,12,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Demarcus Dobbs,2011,San Francisco 49ers,12,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Orson Charles,2013,Cincinnati Bengals,11,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Orson Charles,2012,Cincinnati Bengals,16,6,8,101,12.6,25,0,nan,nan,nan,nan,nan,nan,nan
+Scott Chandler,2013,Buffalo Bills,13,7,43,515,12.0,33T,2,nan,nan,nan,nan,nan,1,1
+Scott Chandler,2012,Buffalo Bills,15,13,43,571,13.3,43,6,nan,nan,nan,nan,nan,2,1
+Scott Chandler,2011,Buffalo Bills,14,9,38,389,10.2,31,6,nan,nan,nan,nan,nan,1,1
+Scott Chandler,2010,Buffalo Bills,4,1,1,8,8.0,8,0,nan,nan,nan,nan,nan,nan,nan
+Scott Chandler,2010,Dallas Cowboys,9,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Scott Chandler,2009,New York Giants,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Scott Chandler,2007,San Diego Chargers,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Garrett Celek,2013,San Francisco 49ers,9,1,1,30,30.0,30,0,nan,nan,nan,nan,nan,nan,nan
+Garrett Celek,2012,San Francisco 49ers,13,0,4,51,12.8,35,0,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2013,Philadelphia Eagles,13,12,25,348,13.9,42,4,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2012,Philadelphia Eagles,15,14,57,684,12.0,34,1,nan,nan,nan,nan,nan,1,1
+Brent Celek,2011,Philadelphia Eagles,16,16,62,811,13.1,73,5,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2010,Philadelphia Eagles,16,15,42,511,12.2,65T,4,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2009,Philadelphia Eagles,16,15,76,971,12.8,47T,8,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2008,Philadelphia Eagles,16,7,27,318,11.8,44,1,nan,nan,nan,nan,nan,nan,nan
+Brent Celek,2007,Philadelphia Eagles,16,4,16,178,11.1,29,1,nan,nan,nan,nan,nan,nan,nan
+James Casey,2013,Philadelphia Eagles,12,0,3,31,10.3,12,0,nan,nan,nan,nan,nan,nan,nan
+James Casey,2012,Houston Texans,16,9,34,330,9.7,30,3,1,6,6.0,6,0,nan,nan
+James Casey,2011,Houston Texans,14,7,18,260,14.4,62,1,1,11,11.0,11,0,nan,nan
+James Casey,2010,Houston Texans,16,4,8,98,12.3,33,0,nan,nan,nan,nan,nan,nan,nan
+James Casey,2009,Houston Texans,15,0,6,64,10.7,32,0,nan,nan,nan,nan,nan,nan,nan
+Derek Carrier,2013,San Francisco 49ers,4,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+John Carlson,2013,Minnesota Vikings,13,8,32,344,10.8,30,1,nan,nan,nan,nan,nan,1,1
+John Carlson,2012,Minnesota Vikings,14,6,8,43,5.4,14,0,nan,nan,nan,nan,nan,nan,nan
+John Carlson,2010,Seattle Seahawks,15,13,31,318,10.3,37,1,nan,nan,nan,nan,nan,nan,nan
+John Carlson,2009,Seattle Seahawks,16,16,51,574,11.3,42,7,nan,nan,nan,nan,nan,nan,nan
+John Carlson,2008,Seattle Seahawks,16,9,55,627,11.4,33,5,nan,nan,nan,nan,nan,nan,nan
+Jordan Cameron,2013,Cleveland Browns,13,13,72,825,11.5,53,7,nan,nan,nan,nan,nan,1,0
+Jordan Cameron,2012,Cleveland Browns,14,6,20,226,11.3,28,1,nan,nan,nan,nan,nan,nan,nan
+Jordan Cameron,2011,Cleveland Browns,8,2,6,33,5.5,15,0,nan,nan,nan,nan,nan,nan,nan
+Justice Cunningham,2013,Indianapolis Colts,1,0,1,4,4.0,4,0,nan,nan,nan,nan,nan,nan,nan
+Jeff Cumberland,2013,New York Jets,12,10,20,288,14.4,47,3,nan,nan,nan,nan,nan,nan,nan
+Jeff Cumberland,2012,New York Jets,15,12,29,359,12.4,39,3,nan,nan,nan,nan,nan,nan,nan
+Jeff Cumberland,2011,New York Jets,3,0,2,35,17.5,33,0,nan,nan,nan,nan,nan,nan,nan
+Jeff Cumberland,2010,New York Jets,1,0,1,3,3.0,3,0,nan,nan,nan,nan,nan,nan,nan
+Tom Crabtree,2013,Tampa Bay Buccaneers,7,5,4,21,5.3,14,1,nan,nan,nan,nan,nan,nan,nan
+Tom Crabtree,2012,Green Bay Packers,14,6,8,203,25.4,72T,3,nan,nan,nan,nan,nan,nan,nan
+Tom Crabtree,2011,Green Bay Packers,16,9,6,38,6.3,15,1,nan,nan,nan,nan,nan,nan,nan
+Tom Crabtree,2010,Green Bay Packers,16,1,4,61,15.3,33,0,nan,nan,nan,nan,nan,nan,nan
+Jared Cook,2013,St. Louis Rams,13,10,43,606,14.1,47,4,nan,nan,nan,nan,nan,1,1
+Jared Cook,2012,Tennessee Titans,13,5,44,523,11.9,61T,4,nan,nan,nan,nan,nan,1,1
+Jared Cook,2011,Tennessee Titans,16,5,49,759,15.5,80T,3,nan,nan,nan,nan,nan,2,2
+Jared Cook,2010,Tennessee Titans,16,1,29,361,12.4,36,1,nan,nan,nan,nan,nan,nan,nan
+Jared Cook,2009,Tennessee Titans,14,0,9,74,8.2,17,0,nan,nan,nan,nan,nan,nan,nan
+Chase Coffman,2013,Atlanta Falcons,9,0,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Chase Coffman,2012,Atlanta Falcons,5,0,1,12,12.0,12,0,nan,nan,nan,nan,nan,nan,nan
+Chase Coffman,2010,Cincinnati Bengals,6,0,3,30,10.0,14,0,nan,nan,nan,nan,nan,nan,nan
+Chase Coffman,2009,Cincinnati Bengals,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Charles Clay,2013,Miami Dolphins,13,12,60,678,11.3,67,6,6,15,2.5,13,1,nan,nan
+Charles Clay,2012,Miami Dolphins,14,9,18,212,11.8,31T,2,nan,nan,nan,nan,nan,nan,nan
+Charles Clay,2011,Miami Dolphins,14,9,16,233,14.6,46,3,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2013,Baltimore Ravens,12,0,31,343,11.1,45,3,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2012,Tampa Bay Buccaneers,16,7,47,435,9.3,33,4,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2011,Indianapolis Colts,11,10,34,352,10.4,21,2,nan,nan,nan,nan,nan,1,1
+Dallas Clark,2010,Indianapolis Colts,6,6,37,347,9.4,50T,3,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2009,Indianapolis Colts,16,16,100,"1,106",11.1,80T,10,2,11,5.5,7,0,1,0
+Dallas Clark,2008,Indianapolis Colts,15,15,77,848,11.0,33,6,nan,nan,nan,nan,nan,2,1
+Dallas Clark,2007,Indianapolis Colts,15,15,58,616,10.6,39,11,2,29,14.5,15,0,nan,nan
+Dallas Clark,2006,Indianapolis Colts,12,12,30,367,12.2,40,4,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2005,Indianapolis Colts,15,14,37,488,13.2,56,4,nan,nan,nan,nan,nan,nan,nan
+Dallas Clark,2004,Indianapolis Colts,15,13,25,423,16.9,80T,5,nan,nan,nan,nan,nan,2,1
+Dallas Clark,2003,Indianapolis Colts,10,10,29,340,11.7,42,1,nan,nan,nan,nan,nan,nan,nan
+Gary Barnidge,2013,Cleveland Browns,13,9,10,87,8.7,40T,2,nan,nan,nan,nan,nan,nan,nan
+Gary Barnidge,2012,Carolina Panthers,16,5,6,78,13.0,24T,1,nan,nan,nan,nan,nan,nan,nan
+Gary Barnidge,2010,Carolina Panthers,16,3,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Gary Barnidge,2009,Carolina Panthers,16,3,12,242,20.2,55,0,nan,nan,nan,nan,nan,1,0
+Gary Barnidge,2008,Carolina Panthers,15,0,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Jake Ballard,2013,Arizona Cardinals,5,1,2,44,22.0,29,0,nan,nan,nan,nan,nan,nan,nan
+Jake Ballard,2011,New York Giants,14,13,38,604,15.9,41,4,nan,nan,nan,nan,nan,nan,nan
+Jake Ballard,2010,New York Giants,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2013,Baltimore Ravens,6,1,2,18,9.0,18,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2012,Baltimore Ravens,8,1,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2011,St. Louis Rams,16,12,9,71,7.9,19,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2010,St. Louis Rams,13,8,14,145,10.4,26T,2,nan,nan,nan,nan,nan,1,0
+Billy Bajema,2009,St. Louis Rams,16,5,8,94,11.8,27,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2008,San Francisco 49ers,16,10,2,34,17.0,29,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2007,San Francisco 49ers,14,2,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2006,San Francisco 49ers,16,6,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Billy Bajema,2005,San Francisco 49ers,15,7,5,54,10.8,24,0,nan,nan,nan,nan,nan,nan,nan
+Jake Byrne,2013,Houston Texans,7,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Nate Byham,2013,Tampa Bay Buccaneers,4,3,3,38,12.7,34,0,nan,nan,nan,nan,nan,nan,nan
+Nate Byham,2012,Tampa Bay Buccaneers,11,2,3,18,6.0,10,1,nan,nan,nan,nan,nan,nan,nan
+Nate Byham,2010,San Francisco 49ers,14,3,5,27,5.4,9,0,nan,nan,nan,nan,nan,nan,nan
+Richie Brockel,2013,Carolina Panthers,13,0,1,12,12.0,12,0,1,1,1.0,1,0,1,1
+Richie Brockel,2012,Carolina Panthers,16,0,0,0,nan,nan,0,nan,nan,nan,nan,nan,nan,nan
+Richie Brockel,2011,Carolina Panthers,11,2,3,13,4.3,5,0,3,12,4.0,7T,1,nan,nan
+Kevin Brock,2013,Kansas City Chiefs,4,0,3,36,12.0,25,0,nan,nan,nan,nan,nan,nan,nan
+Kevin Brock,2011,Buffalo Bills,2,0,2,27,13.5,21,0,nan,nan,nan,nan,nan,nan,nan
+Brandon Bostick,2013,Green Bay Packers,10,0,7,120,17.1,26,1,nan,nan,nan,nan,nan,nan,nan
+Martellus Bennett,2013,Chicago Bears,13,12,53,588,11.1,43,5,nan,nan,nan,nan,nan,nan,nan
+Martellus Bennett,2012,New York Giants,16,16,55,626,11.4,33T,5,nan,nan,nan,nan,nan,nan,nan
+Martellus Bennett,2011,Dallas Cowboys,14,7,17,144,8.5,15,0,nan,nan,nan,nan,nan,nan,nan
+Martellus Bennett,2010,Dallas Cowboys,16,11,33,260,7.9,32,0,nan,nan,nan,nan,nan,1,0
+Martellus Bennett,2009,Dallas Cowboys,14,6,15,159,10.6,21,0,nan,nan,nan,nan,nan,nan,nan
+Martellus Bennett,2008,Dallas Cowboys,16,7,20,283,14.2,37,4,nan,nan,nan,nan,nan,nan,nan
+Dwayne Allen,2013,Indianapolis Colts,1,1,1,20,20.0,20T,1,nan,nan,nan,nan,nan,nan,nan
+Dwayne Allen,2012,Indianapolis Colts,16,16,45,521,11.6,40,3,3,5,1.7,3,0,1,0
+Kyle Adams,2013,Tampa Bay Buccaneers,2,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Kyle Adams,2013,Chicago Bears,1,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+Kyle Adams,2012,Chicago Bears,15,2,4,40,10.0,17,0,nan,nan,nan,nan,nan,nan,nan
+Kyle Adams,2011,Chicago Bears,8,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+David Ausberry,2013,Oakland Raiders,0,0,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+David Ausberry,2012,Oakland Raiders,16,0,7,92,13.1,31,0,nan,nan,nan,nan,nan,nan,nan
+David Ausberry,2011,Oakland Raiders,12,0,2,14,7.0,10,0,1,-2,-2.0,-2,0,nan,nan
